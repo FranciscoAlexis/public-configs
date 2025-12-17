@@ -7,6 +7,7 @@
   * XCode Command Line Tools
 * `$ brew install nvim`
 * `$ brew install tmux`
+* [Checkout dot files in .config/nvim](https://github.com/FranciscoAlexis/nvim-dotfiles)
 * [Karabiner](http://karabiner-elements.pqrs.org/)
 * [Rectangle Pro](https://rectangleapp.com/pro)
 
@@ -14,6 +15,6 @@
 * Appearance theme minimal
 * Profiles -> Colors -> Color preset [Ayu Dark](https://github.com/hwyncho/ayu-iTerm)
 * Profiles -> Text -> Anti aliased text on retina displays
-* Profiles -> Text -> Font -> [Jetbrains Mono Regular](https://www.jetbrains.com/lp/mono/)
+* Profiles -> Text -> Font -> [DejaVuSansM Nerd Font Mono](https://www.programmingfonts.org/#dejavu)
 
 
