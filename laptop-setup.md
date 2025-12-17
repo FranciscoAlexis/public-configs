@@ -7,7 +7,6 @@
   * XCode Command Line Tools
 * `$ brew install nvim`
 * `$ brew install tmux`
-* [nvChad](https://nvchad.com/docs/quickstart/install)
 * [Karabiner](http://karabiner-elements.pqrs.org/)
 * [Rectangle Pro](https://rectangleapp.com/pro)
 
