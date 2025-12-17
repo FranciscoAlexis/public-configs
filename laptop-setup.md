@@ -2,11 +2,16 @@
 
 ## Basic software
 * [iTerm2](https://iterm2.com)
+* `$ brew install zsh`
 * [oh my zsh](https://ohmyz.sh)
-* [brew](https://brew.sh)
-  * XCode Command Line Tools
+* [brew](https://bre.sh)
+* XCode Command Line Tools
+* `$ brew install gh`
+* `$ brew install wget`
 * `$ brew install nvim`
 * `$ brew install tmux`
+* `$ brew install tree-sitter-cli`
+* `$ brew install cmake`
 * [Checkout dot files in .config/nvim](https://github.com/FranciscoAlexis/nvim-dotfiles)
 * [Karabiner](http://karabiner-elements.pqrs.org/)
 * [Rectangle Pro](https://rectangleapp.com/pro)
