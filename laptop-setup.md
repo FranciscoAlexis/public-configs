@@ -2,9 +2,12 @@
 
 ## Basic software
 * [iTerm2](https://iterm2.com)
+* [brew](https://brew.sh) -- Make sure to install/use arm64 version.
+* `brew install mise`
+* `mise install --global node@latest`
+* `mise install --global python@latest`
 * `$ brew install zsh`
 * [oh my zsh](https://ohmyz.sh)
-* [brew](https://bre.sh)
 * XCode Command Line Tools
 * `$ brew install gh`
 * `$ brew install wget`
@@ -15,6 +18,13 @@
 * [Checkout dot files in .config/nvim](https://github.com/FranciscoAlexis/nvim-dotfiles)
 * [Karabiner](http://karabiner-elements.pqrs.org/)
 * [Rectangle Pro](https://rectangleapp.com/pro)
+
+## .zshrc
+```
+export PATH=$HOME/.cargo/env:$PATH
+eval "$(/opt/homebrew/bin/brew shellenv)"
+eval "$(mise activate zsh)"
+```
 
 ## Iterm 
 * Appearance theme minimal
